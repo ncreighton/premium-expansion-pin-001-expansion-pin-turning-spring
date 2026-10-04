@@ -1,0 +1,2 @@
+# premium-expansion-pin-001-expansion-pin-turning-spring
+Tired of losing track of critical tolerances and spring load data across dozens of spreadsheets and sticky notes? The Expansion Pin Turning &amp; Spring Load Craft Hub gives you a single source of truth for every pin design and test cycle.  This Notion template consolidates all your expansion pin turning parameters, spring load calculations, material s
